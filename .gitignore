@@ -1,0 +1,23 @@
+# Visual Studioのビルド関連ファイル
+.vs/
+.vscode/
+*.vcxproj.user
+*.vcxproj.filters
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# コンパイルした実行ファイルやデバッグ関連のファイル
+Debug/
+DebugPublic/
+Release/
+ReleasePublic/
+x64/Debug/
+x64/Release/
+*.exe
+*.ilk
+*.obj
+*.pdb
+*.idb
+*.tlog
